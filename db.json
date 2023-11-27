@@ -1,0 +1,260 @@
+{
+    "Tools":[
+        {
+            "id":"1",
+            "imageUrl":"https://m.media-amazon.com/images/I/51EfyU1L0sL._SX679_.jpg",
+            "name":"Iron Prunning Secateur Plane (8 inch)",
+            "price":"₹300"
+        },
+         {
+            "id":"2",
+            "imageUrl":" https://i.insider.com/606b5b51856cd700198a336c?width=1000&format=jpeg&auto=webp",
+            "name":"Shovel",
+            "price":"₹95"
+         },
+         {
+            "id":"3",
+            "imageUrl":"https://www.mymydiy.com/wp-content/uploads/2021/07/bow-rake.jpg",
+            "name":"Rake",
+            "price":"₹199"
+         },
+         {
+            "id":"4",
+            "imageUrl":"https://www.bigbasket.com/media/uploads/p/xxl/40246095_1-dp-hand-weeder-for-gardening-cultivating-weeding.jpg",
+            "name":"Grubber/Weeder",
+            "price":"₹159"
+         },
+         {
+            "id":"5",
+            "imageUrl":"https://itemscatalogue.redcross.int/upload/products_data/images/big/ETOOCEMETR06-art.jpg",
+            "name":"Trowel",
+            "price":"₹159"
+         },
+         {
+            "id":"6",
+            "imageUrl":"https://gardenerspath.com/wp-content/uploads/2022/12/Best-Gardening-Gloves-Feature.jpg",
+            "name":"Gloves",
+            "price":"₹199"
+         },
+         {
+            "id":"7",
+            "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKGmKs05U6Fh8fyrLwbKi9_9KykhvfuVtDQ&usqp=CAU",
+            "name":"Sprayers",
+            "price":"₹299"
+         },
+         {
+            "id":"8",
+            "imageUrl":"https://m.media-amazon.com/images/I/51xyNu4SK-L._SX300_SY300_QL70_FMwebp_.jpg",
+            "name":"Jumboo Tool kit",
+            "price":"₹999"
+         },
+         {
+            "id":"9",
+            "imageUrl":"https://m.media-amazon.com/images/I/61nMd6TRLuL.jpg",
+            "name":"Garden Watering Can (5 Ltr Capacity) Green",
+            "price":"₹699"
+         },
+         {
+            "id":"10",
+            "imageUrl":"https://m.media-amazon.com/images/I/61RwwZ+JwzL._AC_UF1000,1000_QL80_.jpg",
+            "name":"Heavy Duty Gardening Tools Planting Kit Essentials, Sharp, Strong, Durable Steel Planter Accessories",
+            "price":"₹1699"
+         } 
+        ],
+        "Flowers":[
+            {
+                "id":"1",
+                "imageUrl":"https://rukminim2.flixcart.com/image/850/1000/kyag87k0/plant-seed/s/l/s/5-tuberose20-udanta-original-imagak3nyzzesjum.jpeg?q=90",
+                "name":"Rajnigandha Bulb (1pc)",
+                "price":"₹25"
+            },
+            {
+                "id":"2",
+                "imageUrl":"https://watermark.lovepik.com/photo/20211130/large/lovepik-dahlia-picture_501284779.jpg",
+                "name":"Dahlia Mixed Seeds (20 seeds)",
+                "price":"₹20"
+            },
+            {
+                "id":"3",
+                "imageUrl":"https://images.unsplash.com/photo-1657411658386-7e57bc3d798d?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8emlubmF8ZW58MHx8MHx8fDA%3D",
+                "name":"Zinnia Double Mix Seeds (30 seeds)",
+                "price":"₹20"
+            },
+            {
+                "id":"4",
+                "imageUrl":"https://images.unsplash.com/photo-1528756514091-dee5ecaa3278?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGF2ZW5kZXJ8ZW58MHx8MHx8fDA%3D",
+                "name":"Lavender Seeds (100 seeds)",
+                "price":"₹20"
+            },
+            {
+                "id":"5",
+                "imageUrl":"https://images.unsplash.com/photo-1603122627218-cdb9b99c86ca?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UG9ydHVsYWNhfGVufDB8fDB8fHww",
+                "name":"Portulaca Mixed Seeds (100seeds)",
+                "price":"₹30"
+            },
+            {
+                "id":"6",
+                "imageUrl":"https://images.unsplash.com/photo-1644772762096-51999ea945c7?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "name":"Rain Lily Mixed Bulb (1pc)",
+                "price":"₹60"
+            },
+            {
+                "id":"7",
+                "imageUrl":"https://images.unsplash.com/photo-1602673452284-3cb89982e9bb?q=80&w=1286&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "name":"Cosmos Mixed Sensation Seeds (20 seeds)",
+                "price":"₹25"
+            },
+            {
+                "id":"8",
+                "imageUrl":"https://images.unsplash.com/photo-1436891436013-5965265af5fc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "name":" Lotus Seeds (4 seeds)",
+                "price":"₹35"
+            },
+            {
+                "id":"9",
+                "imageUrl":"https://images.unsplash.com/photo-1540039906769-84cf3d448bc1?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "name":"Sunflower Tall Seeds (20 seeds)",
+                "price":"₹80"
+            },
+            {
+                "id":"10",
+                "imageUrl":"https://images.unsplash.com/photo-1594417447205-5e1a4e8f05de?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "name":"Daisy Mixed Seeds (30 seeds)",
+                "price":"₹100"
+            }
+        ],
+        "Grocery":[
+            {
+                "id":"1",
+                "imageUrl":"https://media.istockphoto.com/id/1179787361/photo/panela-or-sugar-cane-candy-saccharum-officinarum.jpg?s=612x612&w=0&k=20&c=-xDyN8NEm7MTkWqnsPRGBJjuwrktQPQUjXd4l6DbK7c=",
+                "name":"JAGGERY 1KG ",
+                "price":"₹100"
+
+            },
+            {
+                "id":"2",
+                "imageUrl":"https://m.media-amazon.com/images/I/819iWj7tVxL._AC_UF1000,1000_QL80_.jpg",
+                "name":"PANAKARKANDU 250 GMS",
+                "price":"₹175"
+
+            },
+            {
+                "id":"3",
+                "imageUrl":"https://m.media-amazon.com/images/I/61xd5ODnELL._AC_UF1000,1000_QL80_.jpg",
+                "name":"VELLAM 1KG",
+                "price":"₹100"
+
+            },
+            {
+                "id":"4",
+                "imageUrl":"https://pettikadai.in/cdn/shop/files/Karupatti_1080x.png?v=1684222762",
+                "name":"KARUPPATTI 1 KG",
+                "price":"₹330"
+
+            },
+            {
+                "id":"5",
+                "imageUrl":"https://www.amuthininaturals.com/wp-content/uploads/2020/07/Aval.jpg",
+                "name":"AVL MAPPILAI SAMBA FLAKE 200G ",
+                "price":"₹40"
+
+            },
+            {
+                "id":"6",
+                "imageUrl":"https://www.amuthininaturals.com/wp-content/uploads/2020/08/Mappilai-Samba.jpg",
+                "name":"MAPILLAI SAMBA RICE 1KG",
+                "price":"₹130"
+
+            },
+            {
+                "id":"7",
+                "imageUrl":"https://ucarecdn.com/f28112ae-9f03-4dff-8ad9-3e4cc896aa62/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+                "name":"GINGELLY OIL 500ML",
+                "price":"₹250"
+
+            },
+            {
+                "id":"8",
+                "imageUrl":"https://www.globalbrandsmagazine.com/wp-content/uploads/2021/09/Groundnut-Oil.jpg",
+                "name":"GROUNDNUT OIL 500ML",
+                "price":"₹170"
+
+            },
+            {
+                "id":"9",
+                "imageUrl":"https://5.imimg.com/data5/SELLER/Default/2021/4/UA/UQ/SC/73676894/organic-cold-pressed-virgin-coconut-oil-500x500.jpg",
+                "name":"COCONUT OIL 500ML",
+                "price":"₹150"
+
+            },
+            {
+                "id":"10",
+                "imageUrl":"https://www.ambujasolvex.com/ast/uploads/2021/06/brown-castor-oil.webp",
+                "name":"CASTOR OIL 500ML",
+                "price":"₹250"
+
+            }
+        ],
+        "Snacks":[
+            {
+            "id":"1",
+            "imageUrl":"https://m.media-amazon.com/images/I/616Np86QJAL._AC_UF1000,1000_QL80_.jpg",
+            "name":"GINGER MITTAI 100 Gram ",
+            "price":"₹70"
+        },
+            {
+            "id":"2",
+            "imageUrl":"https://s3.ap-south-1.amazonaws.com/tmt-stagapp/upload/products/30231612610273.jpg",
+            "name":"GROUNDNUT KADALAI BALLS Pack of 10 No's",
+            "price":"₹70"
+        },
+            {
+            "id":"3",
+            "imageUrl":"https://i0.wp.com/nativespecial.com/in/wp-content/uploads/sites/3/2019/11/Kovilpatti-Ellu-mittai-GP-1.jpg?fit=800%2C800&ssl=1",
+            "name":"SESAME ELLU BALLS SWEET Pack of 10 No's ",
+            "price":"₹150"
+        },
+            {
+            "id":"4",
+            "imageUrl":"https://onlymillet.com/wp-content/uploads/2021/08/Thinnai-Karupatti-Mysore-pak.jpg",
+            "name":"KAMBU MYSUR PAKKU 250 Gram",
+            "price":"₹80"
+        },
+            {
+            "id":"5",
+            "imageUrl":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/swathynandhini/COCONUT_JAGGERY_BURFI.jpg",
+            "name":"COCONUT PURFI 250 Gram",
+            "price":"₹90"
+        },
+            {
+            "id":"6",
+            "imageUrl":"https://www.greatestbakery.in/wp-content/uploads/2022/03/Buy-Andhra-Muruku-in-Nagercoil.jpg",
+            "name":"THOOYAMALI RICE POONDU MURUKU 200G",
+            "price":"₹100"
+        },
+            {
+            "id":"7",
+            "imageUrl":"https://www.isayorganic.com/cdn/shop/products/Screenshot2022-04-26at7.54.26PM_1024x1024@2x.png?v=1664515966",
+            "name":"Organic Pancake and Waffle Mix",
+            "price":"₹250"
+        },
+            {
+            "id":"8",
+            "imageUrl":"https://foodsguy.com/wp-content/uploads/2020/08/Best-Organic-Peanut-Butter.jpg",
+            "name":"Organic Peanut Butter",
+            "price":"₹300"
+        },
+            {
+            "id":"9",
+            "imageUrl":"https://www.isayorganic.com/cdn/shop/products/nav_Salted-Peanuts_1024x1024@2x.png?v=1679039224",
+            "name":"Organic Roasted Salted Peanuts",
+            "price":"₹150"
+        },
+            {
+            "id":"10",
+            "imageUrl":"https://allthehealthythings.com/wp-content/uploads/2022/12/Brown-Butter-Cinnamon-Orange-Coffee-Cake-6-scaled.jpg",
+            "name":"Orange and Coffee cookies",
+            "price":"₹200"
+        }
+    ]
+}
